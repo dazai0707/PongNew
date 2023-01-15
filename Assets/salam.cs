@@ -13,7 +13,7 @@ public class salam : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("hellop world");
+        Debug.Log("hello world");
     }
  
     
